@@ -1,17 +1,14 @@
-<h1 align="center">Hey There 👋</h1>
-
-###
+<h1>Hey There 👋</h1>
 
 ## Cms Project🎉
 
 ###
 
-<p align="left">I'm Sobhan Musazadeh from Iran ❤️✨✌️<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Sobhan Musazadeh from Iran ❤️✨✌️<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning React js<br>- ⚡ In my free time I Codeing 😂</p>
 
 
 <img src="https://s30.picofile.com/file/8473842476/4.jpg" title="NoteLegendary">
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
