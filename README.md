@@ -1,6 +1,4 @@
-<h1>Hey There 👋</h1>
-
-## Cms Project🎉
+<h1>Hey There 👋 Cms Project🎉</h1>
 
 ###
 
