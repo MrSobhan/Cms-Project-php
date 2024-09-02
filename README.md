@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Sobhan Musazadeh from Iran ❤️✨✌️<br>This is Best Full Cms<br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning React js<br>- ⚡ In my free time I Codeing 😂</p>
+<p align="left">I'm Sobhan Musazadeh from Iran ❤️✨✌️<br>This is Best Full Cms<br>- 🔭  I’m working as frontend developer :)<br>- 📚 I'm currently learning React js<br>- ⚡ In my free time I Codeing 😂</p>
 
 
 <img src="https://s30.picofile.com/file/8473842476/4.jpg" title="NoteLegendary">
